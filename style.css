@@ -1,21 +1,39 @@
 title{
-    font-size: 72px
+    font-size: 72px;
+    color: whitesmoke
+
 }
 p{
-    border-color: #fdefa6
+    border-color: #fdefa6;
     border-style: solid;
-    background-color: #1a1818
-    
+    background-color: #1a1818;
+    font-family: "Utica One";
+    color: whitesmoke;
 }
 
 h1{
-text-align: center;
+text-align: right;
 }
 
 h2{
 text-align: center;
 }
 
+
 h3{
 text-align: center;
 }
+body{
+    background-color: #535353
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+  }
+  .top {
+      text-align: center;
+      width: center;
+  }
